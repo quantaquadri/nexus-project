@@ -18,7 +18,20 @@ wanna topup
 2. git commit -m 'commit message'
 3. git push origin master
 
+FOR SURGE:
 
+FIRST TIME USER
+
+1. go to project path
+2. surge
+3. create account username and password
+4. enter
+5. set the url to the path you considering
+6.
+
+SECOND TIME USER and wanna upload the link
+1. echo vancouver.surge.sh > CNAME
+2. surge
 
 Hi Abdulquadri, TO CREATE A BOOTSTRAP BOILER TEMPLATE: 
 
