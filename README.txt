@@ -38,3 +38,17 @@
 --- Making A Row Clickable ---
 
 = Check the project I did on the Ranpea Dashboard // the order management module
+
+
+--- JinJa 2 ---
+
+= Eva recently helped me install/setup JinJa using Flask on the repo #giftshop. 
+
+= Want to run the server for an already setup JinJa environment?
+
+1. navigate to the folder you want to work from.
+2. virtualenv venv
+3. source venv/bin/activate 
+4. python app.py
+5. and load the 127. url it gives you...
+
