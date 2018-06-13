@@ -52,3 +52,5 @@
 4. python app.py
 5. and load the 127. url it gives you...
 
+= To properly understand how it all works; Dare showed me how he did our #Analizar project, creating a base template and each other pages he created were extending from the base html file.
+
