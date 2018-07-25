@@ -17,6 +17,12 @@
 2. git commit -m 'commit message'
 3. git push origin master
 
+= Forking A Repo To Own?
+
+1. click 'Fork' button in top right corner
+2. change directory from your terminal cd /path/to/install/location
+3. git clone https://github.com/[your_username]/vuejs-poster-shop.git
+4. you can start pushing anytime using same knowledge
 
 --- SURGE ---
 
